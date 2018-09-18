@@ -1,0 +1,16 @@
+MAGIC 8 BALL RESPONSES
+
+GOOD:
+The outcome looks promising (used
+Absolutely (used)
+Yes (used)
+Count on it
+Without a doubt (used)
+
+BAD:
+I wouldn't bet on it (used)
+Not now (used)
+Wait for it (used)
+No
+Dosen't seem likely (used)
+
