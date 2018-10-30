@@ -44,7 +44,6 @@ public class Magic8Ball {
         else if(pickedNumber<61){
             System.out.println("Yes.");
         }
-
         else if(pickedNumber<71){
             System.out.println("Dosen't seem likely");
         }
